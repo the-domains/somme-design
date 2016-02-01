@@ -1,6 +1,6 @@
 name: somme design
 favicon: null
-layout_spectrum: 0.9206347605213523
+layout_spectrum: 0.26456
 typography_spectrum: 0.7239166852086782
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.21790029224939644
-  lightness: 0.8064586822874844
-  saturation: 0.45900425920262933
-  rhythmicContrast: 0.5251693229656667
+  brandStrength: 0.75
+  lightness: 0.75
+  saturation: 0.125
+  rhythmicContrast: 0.75
 purpose: []
