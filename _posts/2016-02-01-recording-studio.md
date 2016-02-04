@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: Basement redesign to host a recording studio with help of Blackmer Sound.
-datePublished: '2016-02-04T19:26:24.323Z'
+datePublished: '2016-02-04T19:26:24.393Z'
 dateModified: '2016-02-04T19:26:18.989Z'
 title: 'Recording Studio '
 author: []
