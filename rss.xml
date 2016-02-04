@@ -4,8 +4,15 @@
         <description><![CDATA[interior design for commercial and residential projects]]></description>
         <link>https://thegrid.ai/somme-design/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 19:47:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Feb 2016 19:25:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/somme-design/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6034f9d5-9cbd-41eb-9731-de75922b7779.jpg">]]></description>
+            <link>https://thegrid.ai/somme-design/68382588-9d95-4a59-a738-2e8addb6c211/index.html</link>
+            <guid isPermaLink="false">68382588-9d95-4a59-a738-2e8addb6c211</guid>
+            <pubDate>Thu, 04 Feb 2016 19:23:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Recording Studio ]]></title>
             <description><![CDATA[<article><h1>Recording Studio </h1><p>Recording studio images.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a29cf7801bf0af24ebdd234ce5524b1e050dc15.jpg"></article>]]></description>
@@ -15,17 +22,10 @@
         </item>
         <item>
             <title><![CDATA[Previous projects]]></title>
-            <description><![CDATA[<article><h1>Previous projects</h1><p>Front canopy, Burkus Residence</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c12ce79af41d42d17debe657af6452876572a7c.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Previous projects</h1><p>Front canopy, Burkus Residence</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e25e2e5948f232b3fed857f94d9da8b71c0eac72.jpg"></article>]]></description>
             <link>https://thegrid.ai/somme-design/weston-residence/index.html</link>
             <guid isPermaLink="false">3ee3a4ff-47cb-4698-a0dd-c9dbbf431bcf</guid>
             <pubDate>Mon, 01 Feb 2016 19:47:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6034f9d5-9cbd-41eb-9731-de75922b7779.jpg">]]></description>
-            <link>https://thegrid.ai/somme-design/68382588-9d95-4a59-a738-2e8addb6c211/index.html</link>
-            <guid isPermaLink="false">68382588-9d95-4a59-a738-2e8addb6c211</guid>
-            <pubDate>Mon, 01 Feb 2016 13:55:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
