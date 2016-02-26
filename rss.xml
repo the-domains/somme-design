@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[interior design for commercial and residential projects]]></title>
-        <description><![CDATA[interior design for commercial and residential projects]]></description>
+        <title><![CDATA[interior architecture commercial & residential ]]></title>
+        <description><![CDATA[interior architecture commercial & residential ]]></description>
         <link>https://thegrid.ai/somme-design/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Feb 2016 19:26:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2016 20:13:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/somme-design/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -15,10 +15,17 @@
         </item>
         <item>
             <title><![CDATA[Recording Studio ]]></title>
-            <description><![CDATA[<article><h1>Recording Studio </h1><p>Recording studio images, Wellesley MA</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b44316f288bd7e4c17706c35e5021abec1869373.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Recording Studio </h1><p>Recording studio images, Wellesley MA</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a29cf7801bf0af24ebdd234ce5524b1e050dc15.jpg"></article>]]></description>
             <link>https://thegrid.ai/somme-design/recording-studio/index.html</link>
             <guid isPermaLink="false">0664edce-630b-46b6-a78a-8b4580ae364e</guid>
             <pubDate>Thu, 04 Feb 2016 19:26:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Charlestown Residence]]></title>
+            <description><![CDATA[<article><h1>Charlestown Residence</h1><p>Charlestown MA, new kitchen and bathrooms</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b3297e63b973af2a3e9cff84b60f4ed6d7896089.jpg"></article>]]></description>
+            <link>https://thegrid.ai/somme-design/bathrooms/index.html</link>
+            <guid isPermaLink="false">47e1b0d3-defd-4d6f-95d9-afe5c7bf57a4</guid>
+            <pubDate>Fri, 26 Feb 2016 20:12:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Previous projects]]></title>
