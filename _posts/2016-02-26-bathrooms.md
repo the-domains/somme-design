@@ -1,25 +1,25 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'Bathrooms remodels, various locations'
-datePublished: '2016-02-26T19:44:37.219Z'
-dateModified: '2016-02-26T19:44:23.844Z'
-title: Bathrooms
+datePublished: '2016-02-26T20:12:21.707Z'
+dateModified: '2016-02-26T20:12:18.785Z'
+title: Charlestown Residence
 author: []
+sourcePath: _posts/2016-02-26-bathrooms.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-26-bathrooms.md
-published: true
 url: bathrooms/index.html
-_type: WebPage
+_type: Article
 
 ---
 Charlestown MA, new kitchen and bathrooms
