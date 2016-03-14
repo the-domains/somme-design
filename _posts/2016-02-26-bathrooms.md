@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: 'Bathrooms remodels, various locations'
-datePublished: '2016-02-26T20:12:21.707Z'
-dateModified: '2016-02-26T20:12:18.785Z'
+description: 'Charlestown MA, new kitchen and bathrooms'
+datePublished: '2016-03-14T13:41:29.696Z'
+dateModified: '2016-03-08T12:58:31.517Z'
 title: Charlestown Residence
 author: []
 sourcePath: _posts/2016-02-26-bathrooms.md
