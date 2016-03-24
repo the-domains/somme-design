@@ -1,6 +1,6 @@
 name: +somme design
 favicon: null
-layout_spectrum: 0.23895
+layout_spectrum: 0.14877
 typography_spectrum: 0.50895
 title: 'interior architecture commercial & residential '
 cta:
@@ -22,8 +22,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0
-  lightness: 0.75
-  saturation: 0.8125
-  rhythmicContrast: 0
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.25
 purpose: []
