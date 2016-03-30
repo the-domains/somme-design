@@ -1,14 +1,14 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: Basement redesign to host a recording studio with help of Blackmer Sound.
-datePublished: '2016-02-04T19:26:24.393Z'
-dateModified: '2016-02-04T19:26:18.989Z'
-title: 'Recording Studio '
+description: 'Recording studio images, Wellesley MA'
+datePublished: '2016-03-30T20:39:47.520Z'
+dateModified: '2016-03-30T20:39:11.538Z'
+title: Recording Studio
 author: []
 sourcePath: _posts/2016-02-01-recording-studio.md
 published: true
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: recording-studio/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bcc06ea1-0424-47d5-af49-616ba7a3f021.jpg)
@@ -32,3 +32,6 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a3851e5-ca58-4f2a-9c92-deb5ebd4d7fa.jpg)
 
 Recording studio images, Wellesley MA
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2dbdfaee-a421-4898-849a-62d743899971.bmp)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/469c1720-6136-45d5-a437-487b96c5b046.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d97b4102-d8ab-42fc-ab80-37ddbca2353f.jpg)
