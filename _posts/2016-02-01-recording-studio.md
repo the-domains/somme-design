@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Recording studio images, Wellesley MA'
-datePublished: '2016-03-30T20:39:47.520Z'
-dateModified: '2016-03-30T20:39:11.538Z'
+datePublished: '2016-04-01T18:58:21.771Z'
+dateModified: '2016-03-30T20:39:55.317Z'
 title: Recording Studio
 author: []
 sourcePath: _posts/2016-02-01-recording-studio.md
@@ -32,6 +32,8 @@ _type: WebPage
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a3851e5-ca58-4f2a-9c92-deb5ebd4d7fa.jpg)
 
 Recording studio images, Wellesley MA
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2dbdfaee-a421-4898-849a-62d743899971.bmp)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/469c1720-6136-45d5-a437-487b96c5b046.jpg)
+
+LED lights in sound room.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2dbdfaee-a421-4898-849a-62d743899971.bmp)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d97b4102-d8ab-42fc-ab80-37ddbca2353f.jpg)
